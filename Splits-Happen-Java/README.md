@@ -1,6 +1,6 @@
 
 ## Requirement
-Create a program which, given a valid sequence of rolls for one line of American Ten-Pin Bowling, produces the total score for the game. Fork this repository, build your program in the language of your choice, then submit a pull request with your code.
+Create a program which, given a valid sequence of rolls for one line of American Ten-Pin Bowling, produces the total score for the game. 
 
 ## Tasks which are out of scope
 *   No need to check for valid rolls.
