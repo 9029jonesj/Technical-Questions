@@ -1,0 +1,13 @@
+c:\users\j44909\documents\visual studio 2015\Projects\Pulse8App\Pulse8App\bin\Release\Pulse8App.exe.config
+c:\users\j44909\documents\visual studio 2015\Projects\Pulse8App\Pulse8App\bin\Release\Pulse8App.exe
+c:\users\j44909\documents\visual studio 2015\Projects\Pulse8App\Pulse8App\bin\Release\Pulse8App.pdb
+c:\users\j44909\documents\visual studio 2015\Projects\Pulse8App\Pulse8App\obj\Release\Pulse8App.exe
+c:\users\j44909\documents\visual studio 2015\Projects\Pulse8App\Pulse8App\obj\Release\Pulse8App.pdb
+C:\Users\J44909\Desktop\Pulse8Interview\Pulse8App\Pulse8App\bin\Release\Pulse8App.exe.config
+C:\Users\J44909\Desktop\Pulse8Interview\Pulse8App\Pulse8App\bin\Release\Pulse8App.exe
+C:\Users\J44909\Desktop\Pulse8Interview\Pulse8App\Pulse8App\bin\Release\Pulse8App.pdb
+C:\Users\J44909\Desktop\Pulse8Interview\Pulse8App\Pulse8App\bin\Release\MySql.Data.dll
+C:\Users\J44909\Desktop\Pulse8Interview\Pulse8App\Pulse8App\bin\Release\MySql.Data.xml
+C:\Users\J44909\Desktop\Pulse8Interview\Pulse8App\Pulse8App\obj\Release\Pulse8App.csproj.CoreCompileInputs.cache
+C:\Users\J44909\Desktop\Pulse8Interview\Pulse8App\Pulse8App\obj\Release\Pulse8App.exe
+C:\Users\J44909\Desktop\Pulse8Interview\Pulse8App\Pulse8App\obj\Release\Pulse8App.pdb

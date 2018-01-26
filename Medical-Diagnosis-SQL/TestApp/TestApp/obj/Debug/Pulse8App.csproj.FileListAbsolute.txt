@@ -1,0 +1,10 @@
+c:\users\j44909\documents\visual studio 2015\Projects\Pulse8App\Pulse8App\bin\Debug\Pulse8App.exe.config
+C:\Users\J44909\Desktop\Pulse8Interview\Pulse8App\Pulse8App\bin\Debug\Pulse8App.exe.config
+C:\Users\J44909\Desktop\Pulse8Interview\Pulse8App\Pulse8App\bin\Debug\Pulse8App.exe
+C:\Users\J44909\Desktop\Pulse8Interview\Pulse8App\Pulse8App\bin\Debug\Pulse8App.pdb
+C:\Users\J44909\Desktop\Pulse8Interview\Pulse8App\Pulse8App\bin\Debug\MySql.Data.dll
+C:\Users\J44909\Desktop\Pulse8Interview\Pulse8App\Pulse8App\bin\Debug\MySql.Data.xml
+C:\Users\J44909\Desktop\Pulse8Interview\Pulse8App\Pulse8App\obj\Debug\Pulse8App.csproj.CoreCompileInputs.cache
+C:\Users\J44909\Desktop\Pulse8Interview\Pulse8App\Pulse8App\obj\Debug\Pulse8App.exe
+C:\Users\J44909\Desktop\Pulse8Interview\Pulse8App\Pulse8App\obj\Debug\Pulse8App.pdb
+C:\Users\J44909\Desktop\Pulse8Interview\Pulse8App\Pulse8App\obj\Debug\Pulse8App.csprojResolveAssemblyReference.cache
