@@ -8,4 +8,4 @@ Run TestDBSetup.sql to set-up the test database.
 	-   Most Severe Diagnosis ID and Description should be the diagnosis with the lowest Diagnosis ID for each Member/Category.
 	-   Is Most Severe Category should identify the lowest Category ID for each Member (please set this to 1 for Members without corresponding Categories as well).
 	-   This query should return one result for each Member/Category.
--	Write a C# Console Application that prompts for a Member ID and displays the results of query #3 for that Member.
+-	Write a C# Console Application that prompts for a Member ID and displays the results of the query for that Member.
