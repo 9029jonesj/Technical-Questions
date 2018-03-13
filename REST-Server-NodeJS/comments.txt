@@ -1,0 +1,65 @@
+Notes:
+
+You can get all configurations using this URI (GET):
+
+/configuration-management/retrieve-configurations
+
+You can add configurations using this format for the POST payload (/configuration-management/manage-configuration):
+{
+	"configurations": [{
+		"name": "test",
+		"hostname": "localhost",
+		"port": 9000,
+		"username": "user2"
+	},
+	{
+		"name": "test2",
+		"hostname": "localhost",
+		"port": 3333,
+		"username": "user1"
+	}]
+}
+
+
+This URI is used to delete a configuration (DELETE):
+
+/configuration-management/manage-configuration?username=user1
+
+This URI is used to update a single field in a configuration (PATCH):
+
+/configuration-management/manage-configuration?username=user1
+
+With a payload of (you can update any field):
+{
+	"name": "Updated Name"
+}
+
+This URI is used to update a single field in a configuration (PUT):
+
+/configuration-management/manage-configuration?username=user1
+
+With a payload of (all fields must be updated):
+{
+	"name": "Updated Test",
+	"hostname": "http://localhost",
+	"port": 1234
+}
+
+Sort collections using this URI:
+
+/configuration-management/retrieve-configurations?orderby=port&order=ASC
+
+orderby params are port, name, username, hostname
+order params are ASC and DESC
+
+Sort collections by page # using this URI:
+
+/configuration-management/retrieve-configurations?orderby=name&order=DESC&page=2
+
+(ie: I achieved pagination without randomization. Configurations are paginated by whatever order they are currently in or being sorted in.)
+
+Postman Link, used to test all REST Endpoints:
+
+https://www.getpostman.com/collections/fe830a3c196279984932
+
+Download Postman and use import function to import collection.

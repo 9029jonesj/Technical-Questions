@@ -1,0 +1,11 @@
+{
+  "name": "rest-server-nodejs",
+  "version": "1.0.0",
+  "description": "Node.JS REST API (Core libraries only)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Postman test scripts located here: https://www.getpostman.com/collections/fe830a3c196279984932\" && exit 1"
+  },
+  "author": "Jerrell Jones",
+  "license": "ISC"
+}
